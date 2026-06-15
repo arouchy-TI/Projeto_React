@@ -1,14 +1,11 @@
 
-
 export function App() {
 
 
   return (
     <>
-    <p>Ola mundo</p>
+    <p>Ola mundo </p>
     </>
   )
 
 }
-
-
